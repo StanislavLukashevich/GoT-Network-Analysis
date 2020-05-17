@@ -1,4 +1,4 @@
-Network Analysis of Game Of Thrones
+**NETWORK ANALYSIS OF GAME OF THRONES**
 
 Who is the most important character in the book series?
 
