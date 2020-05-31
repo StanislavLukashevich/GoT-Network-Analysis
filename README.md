@@ -9,7 +9,7 @@ Who is the most important character in the book series?
 3) **page rank** (evaluates the inlinks and outlinks of nodes in the character network in the book)
 
 
-**THIS REPOSITORY INCLUDES***
+**THIS REPOSITORY INCLUDES**
 1. Jupyter Notebook
 2. Full Python script
 3. Original dataset
